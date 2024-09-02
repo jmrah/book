@@ -1,4 +1,4 @@
-# The Rust Programming Language
+## The Rust Programming Language
 
 [![Build Status](https://travis-ci.com/rust-lang/book.svg?branch=master)](https://travis-ci.com/rust-lang/book)
 
